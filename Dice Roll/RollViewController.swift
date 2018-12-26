@@ -2,9 +2,8 @@
 //  RollViewController.swift
 //  Dice
 //
-//  Created by Jason Schatz on 11/6/14.
-//  Copyright (c) 2014 Udacity. All rights reserved.
-//
+//  Created by Ajit Pratap Singh
+
 
 import UIKit
 

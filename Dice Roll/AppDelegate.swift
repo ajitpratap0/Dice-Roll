@@ -1,10 +1,8 @@
 //
 //  AppDelegate.swift
-//  Dice Incomplete
+//  Dice Roll
 //
-//  Created by Gabrielle Miller-Messner on 12/16/14.
-//  Copyright (c) 2014 Gabrielle Miller-Messner. All rights reserved.
-//
+//  Created by Ajit Pratap Singh
 
 import UIKit
 
